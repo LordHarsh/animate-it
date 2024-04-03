@@ -1,4 +1,4 @@
-# Animated Text Overlay for Videos
+# AnimateIt: Animated Text Overlay for Videos
 
 This Python project adds customizable animated text overlays to your videos. It utilizes OpenCV (cv2) for video processing and provides flexibility in text styling and animation.
 
@@ -54,7 +54,7 @@ texts = [
 ]
 ```
 
-##Further Development
+## Further Development
 
 * Experiment with different animation trajectories!
 * Explore more advanced text effects provided by OpenCV. 
