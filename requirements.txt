@@ -1,0 +1,15 @@
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+charset-normalizer==3.3.2
+decorator==4.4.2
+idna==3.6
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+numpy==1.26.4
+opencv-python==4.9.0.80
+pillow==10.3.0
+proglog==0.1.10
+requests==2.31.0
+setuptools==68.2.2
+tqdm==4.66.2
+urllib3==2.2.1
+wheel==0.41.2
