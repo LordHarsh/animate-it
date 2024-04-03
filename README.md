@@ -20,7 +20,7 @@ This Python project adds customizable animated text overlays to your videos. It 
 
 **Project Structure**
 
-* `animated_text_overlay.py`: The main Python script containing the animation logic.
+* `main.py`: The main Python script containing the animation logic.
 * `data/`: 
     * `vid.mp4`: A sample input video file.
     * `output_vid.mp4`: An example output video with text overlay (if already generated).
